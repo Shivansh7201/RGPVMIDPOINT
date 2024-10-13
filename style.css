@@ -31,7 +31,7 @@ nav {
 	display: flex;
 	width: 100%;
 	z-index: 1000;
-	background: #e2768d;
+	background: #e6e2e2;
 	justify-content: space-around;
 	transition: 1.5s;
 	align-items: center;
@@ -162,9 +162,9 @@ a, button {
 	display: none;
 }
 .side-menu {
-	width: 100%;
+	width: 50%;
 	height: 100%;
-	background: rgba(182, 33, 90, 0.993);
+	background: rgba(15, 14, 15, 0.993);
 	position: absolute;
 	top: 0;
 	transition: .8s;
